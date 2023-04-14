@@ -12,7 +12,6 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
-  <img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" height="40" width="auto" alt="HackTheBox logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -24,6 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+</div>
+
+<h3 align="left">:computer: My Security Training</h3>
+<div align="left">
+<img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" height="40" width="auto" alt="HackTheBox logo" />
 </div>
 
 <h3 align="left">💬 Contact:</h3>
