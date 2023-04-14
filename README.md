@@ -27,7 +27,7 @@
 
 <h3 align="left">:computer: My cybersecurity training</h3>
 <div align="left">
-<img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" href="https://www.hackthebox.com/" height="40" width="auto" alt="HackTheBox logo" />
+<a href="https://www.hackthebox.com/"> <img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" height="40" width="auto" alt="HackTheBox logo" />
 <img src="https://josusb.com/images/cybersecurity/thm-logo.png" height="40" width="auto" alt="HackTheBox logo" />
 <img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T814A1PA5878PT17X25Y18D125532257W11860H12188Cx000000/views/1,width=500,height=500,appearanceId=1/root-me-black-with-text-t-shirt-premium-enfant.jpg" height="40" width="auto" alt="HackTheBox logo" />
 </div>
