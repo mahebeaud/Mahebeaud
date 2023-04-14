@@ -29,6 +29,7 @@
 <div align="left">
 <img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" height="40" width="auto" alt="HackTheBox logo" />
 <img src="https://josusb.com/images/cybersecurity/thm-logo.png" height="40" width="auto" alt="HackTheBox logo" />
+<img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" height="40" width="auto" alt="HackTheBox logo" />
 </div>
 
 <h3 align="left">💬 Contact:</h3>
