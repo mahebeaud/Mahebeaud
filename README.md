@@ -12,7 +12,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
-  <img src="https://media.glassdoor.com/sqll/3278909/hack-the-box-squarelogo-1593684696335.png" height="40" width="auto" alt="HackTheBox logo" />
+  <img src="https://o.remove.bg/downloads/a6d8d2ca-6d1c-4dc3-83c5-0a06a8ab05a0/index-removebg-preview.png" height="40" width="auto" alt="HackTheBox logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
