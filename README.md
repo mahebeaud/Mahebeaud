@@ -26,4 +26,4 @@
 </div>
 
 <h3 align="left">💬 Contact:</h3>
-- mahe.beaud@epitech.eu
+-  mahe.beaud@epitech.eu
