@@ -12,7 +12,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
-  <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" height="auto" width="52" alt="HackTheBox logo" />
+  <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" height="40" width="auto" alt="HackTheBox logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
