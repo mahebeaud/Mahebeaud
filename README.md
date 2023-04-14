@@ -25,5 +25,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
-<h3 align="left">Contact:</h3>
-💬 mahe.beaud@epitech.eu
+<h3 align="left">💬 Contact:</h3>
+mahe.beaud@epitech.eu
