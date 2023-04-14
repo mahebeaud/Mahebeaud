@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahé</h1>
 <h3 align="center">A passionate developer from the caribbean, 🌞.</h3>
 
-- 🌱 I work intensively in **cyber security** on several platforms such as Hack the Box and TryHackMe in order to improve my skills in the field.
+- 📚 I work intensively in **cyber security** on several platforms such as Hack the Box and TryHackMe in order to improve my skills in the field.
 - 🔭 I’m currently studying at **Epitech** and i'm looking for an internship !
 - ✈️ Next year, I will be furthering my education at the **University of Brockport** in the United States of America.
 
@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/mahé-beaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahé-beaud" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
