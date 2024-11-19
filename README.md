@@ -3,7 +3,6 @@
 
 - 📚 I work intensively in **cybersecurity** on several platforms such as Hack the Box and TryHackMe in order to improve my skills in the field.
 - 🔭 I’m currently studying at **Epitech** and i'm looking for an internship !
-- ✈️ Next year, I will be furthering my education at the **University of Brockport** in the United States of America.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +27,4 @@
 </div>
 
 <h3 align="left">💬 Contact:</h3>
-mahe.beaud@epitech.eu
+mahe-beaud@hotmail.fr
